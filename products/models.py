@@ -7,8 +7,6 @@ class Product(models.Model):
     price       = models.TextField()
     summary     = models.TextField()
 
-
-
-# lekcja 8 - OK
+# lekcja 9 - OK
 
 
